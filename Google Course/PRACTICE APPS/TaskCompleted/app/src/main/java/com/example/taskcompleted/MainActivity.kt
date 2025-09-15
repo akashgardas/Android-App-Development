@@ -66,7 +66,7 @@ fun TaskCompletedScreen(modifier: Modifier = Modifier) {
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun TaskCompletedPreview() {
     TaskCompletedTheme {
         TaskCompletedScreen(modifier = Modifier)
     }
