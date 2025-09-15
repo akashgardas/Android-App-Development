@@ -78,7 +78,7 @@ fun ComposeArticle(articleTitle: String, articleTextShort: String, articleTextLo
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun ComposeArticlePreview() {
     ComposeArticleTheme {
         ComposeArticle(
             articleTitle = stringResource(R.string.compose_article_title),
