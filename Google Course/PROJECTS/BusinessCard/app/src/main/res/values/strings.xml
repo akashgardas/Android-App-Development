@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Business Card</string>
+
+    <string name="full_name">Akash Gardas</string>
+    <string name="title">Akash Private Ltd</string>
+
+    <string name="telephone">+91 1234567890</string>
+    <string name="social_media">\@akash39g</string>
+    <string name="email">akash39g@gmail.com</string>
+</resources>
