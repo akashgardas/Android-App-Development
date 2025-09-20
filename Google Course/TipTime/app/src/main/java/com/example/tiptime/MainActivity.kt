@@ -62,7 +62,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun TipTimeLayout() {
-    var amountInput by remember { mutableStateOf("0") }
+    var amountInput by remember { mutableStateOf("") }
     val amount = amountInput.toDoubleOrNull() ?: 0.0
     var tipInput by remember { mutableStateOf("") }
     val tipPercent = tipInput.toDoubleOrNull() ?: 0.0
@@ -130,7 +130,8 @@ fun EditNumberField(
     value: String,
     onValueChange: (String) -> Unit,
     keyboardOptions: KeyboardOptions,
-    modifier: Modifier = Modifier) {
+    modifier: Modifier = Modifier
+) {
     TextField(
         leadingIcon = { Icon(painter = painterResource(id = leadingIcon), null) },
         value = value,
