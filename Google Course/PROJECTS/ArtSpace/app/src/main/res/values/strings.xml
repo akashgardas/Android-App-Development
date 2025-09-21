@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="monalisa">Monalisa</string>
+    <string name="leonardo_da_vinci">Leonardo da Vinci</string>
+    <string name="monalisa_year">1503</string>
+
+    <string name="the_scream">The Scream</string>
+    <string name="john_davies">John Davies</string>
+    <string name="the_scream_year">1893</string>
+
+    <string name="the_starry_night">The Starry Night</string>
+    <string name="vincent_van_gogh">Vincent van Gogh</string>
+    <string name="the_starry_night_year">1889</string>
+
+    <string name="guernica">Guernica</string>
+    <string name="pablo_picasso">Pablo Picasso</string>
+    <string name="guernica_year">1937</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
