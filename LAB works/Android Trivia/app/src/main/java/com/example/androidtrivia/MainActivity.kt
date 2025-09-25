@@ -57,7 +57,7 @@ class MainActivity : ComponentActivity() {
 }
 
 data class Question(
-    val text: String,
+    val text: String,     
     val options: List<String>,
     val answer: String
 )
