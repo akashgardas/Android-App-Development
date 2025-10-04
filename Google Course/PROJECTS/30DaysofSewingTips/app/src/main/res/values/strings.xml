@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">30 Days of Sewing Tips</string>
+
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5</string>
+    <string name="day6">Day 6</string>
+    <string name="day7">Day 7</string>
+    <string name="day8">Day 8</string>
+    <string name="day9">Day 9</string>
+    <string name="day10">Day 10</string>
+    <string name="day11">Day 11</string>
+    <string name="day12">Day 12</string>
+    <string name="day13">Day 13</string>
+    <string name="day14">Day 14</string>
+    <string name="day15">Day 15</string>
+    <string name="day16">Day 16</string>
+    <string name="day17">Day 17</string>
+    <string name="day18">Day 18</string>
+    <string name="day19">Day 19</string>
+    <string name="day20">Day 20</string>
+    <string name="day21">Day 21</string>
+    <string name="day22">Day 22</string>
+    <string name="day23">Day 23</string>
+    <string name="day24">Day 24</string>
+    <string name="day25">Day 25</string>
+    <string name="day26">Day 26</string>
+    <string name="day27">Day 27</string>
+    <string name="day28">Day 28</string>
+    <string name="day29">Day 29</string>
+    <string name="day30">Day 30</string>
+
+    <string name="tip1">Always pre-wash your fabric before sewing to prevent shrinking after the first wash.</string>
+    <string name="tip2">Press, don’t iron. Lift and press your iron instead of sliding it to avoid stretching fabric.</string>
+    <string name="tip3">Change your needle regularly — every 8 hours of sewing or after each major project.</string>
+    <string name="tip4">Match thread to fabric type, not color. Cotton thread for natural fibers, polyester for synthetics.</string>
+    <string name="tip5">Keep fabric grain in mind — cut along the grain for garments that hang properly.</string>
+    <string name="tip6">Use quality pins and needles. Dull ones can snag or damage fabric.</string>
+    <string name="tip7">Practice on scrap fabric before sewing your final piece.</string>
+    <string name="tip8">Mark your fabric clearly using tailor’s chalk or disappearing ink pens.</string>
+    <string name="tip9">Finish raw edges with a zigzag stitch or pinking shears to prevent fraying.</string>
+    <string name="tip10">Backstitch at the beginning and end of each seam to lock stitches.</string>
+    <string name="tip11">Keep your sewing machine clean — remove lint and oil it regularly.</string>
+    <string name="tip12">Invest in good scissors and use them only for fabric, never paper.</string>
+    <string name="tip13">Test stitch length and tension on scraps before starting.</string>
+    <string name="tip14">Use pattern weights instead of pins to cut fabric faster and cleaner.</string>
+    <string name="tip15">Store thread away from sunlight — UV rays weaken fibers.</string>
+    <string name="tip16">Press seams open for a professional finish.</string>
+    <string name="tip17">Use interfacing wisely to give structure to collars, cuffs, and waistbands.</string>
+    <string name="tip18">Clip curves and corners to make them turn smoothly.</string>
+    <string name="tip19">Baste tricky sections by hand before machine sewing.</string>
+    <string name="tip20">Learn basic hand stitches — they’re useful for quick fixes.</string>
+    <string name="tip21">Always measure twice and cut once.</string>
+    <string name="tip22">Use a seam ripper carefully — it’s a tool, not a punishment!</string>
+    <string name="tip23">Label your fabric pieces if your pattern has many parts.</string>
+    <string name="tip24">Store fabric rolled or folded by type to make it easy to find.</string>
+    <string name="tip25">Use contrasting thread for basting so it’s easier to remove later.</string>
+    <string name="tip26">Don’t rush. Slow, accurate sewing saves time in the end.</string>
+    <string name="tip27">Use clips instead of pins for thick or delicate fabrics.</string>
+    <string name="tip28">Keep a sewing journal — record fabric types, patterns, and what worked best.</string>
+    <string name="tip29">Experiment with decorative stitches — they can elevate simple projects.</string>
+    <string name="tip30">Celebrate every finished project! Even small progress counts.</string>
+
+</resources>
